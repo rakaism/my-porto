@@ -16,7 +16,7 @@ const INFO = {
 	homepage: {
 		title: "Backend web developer, and amateur musician.",
 		description:
-			"Hi, i'm Rakadian Audiga Pratama. Final-year Information System student at UIN Sunan Ampel Surabaya, specializing in backend web development and currently delving into DevOps technologies across various industries. With strong programming skills and a high enthusiasm for web development and a high enthusiasm for cloud-native practices and infrastructure as code, I am committed to continuous growth and contributing to technological industry innovations.",
+			"Hi, i'm Rakadian Audiga Pratama. Final-year Information System student at UIN Sunan Ampel Surabaya, specializing in backend web development and currently delving into DevOps and IoT technologies across various industries. With strong programming skills and a high enthusiasm for web development and a high enthusiasm for cloud-native practices and infrastructure as code, I am committed to continuous growth and contributing to technological industry innovations.",
 	},
 
 	about: {
